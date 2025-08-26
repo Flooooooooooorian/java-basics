@@ -69,6 +69,7 @@ public class Methoden {
         return number > 10;
     }
 
-
-
+    public static boolean isSmallerThan10(int number) {
+        return number <= 10;
+    }
 }
