@@ -35,4 +35,5 @@ class ArraysTest {
     private String getFirstLetter(String value) {
         return null;
     }
+    //TERST
 }
